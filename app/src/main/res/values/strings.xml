@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">UserInformations</string>
+
+    <!--label-->
+    <string name="name_tv">Name</string>
+    <string name="email_tv">Email</string>
+    <string name="phone_tv">Phone Number</string>
+    <string name="address_tv">Address</string>
+    <string name="gender_tv">Gender</string>
+    <string name="interesting_tv">Interesting Category</string>
+
+    <!--radio button-->
+    <string name="male_rb">Male</string>
+    <string name="female_rb">Female</string>
+
+    <!--checkbox-->
+    <string name="reading_cb">Reading</string>
+    <string name="swimming_cb">Swimming</string>
+    <string name="walking_cb">Walking</string>
+    <string name="travelling_cb">Travelling</string>
+
+    <!--button-->
+    <string name="ok_btn">OK</string>
+
+    <!--edittext-->
+    <string name="name_et">Mg Mg</string>
+    <string name="email_et">abc@gmail.com</string>
+    <string name="phone_et">09xxxxxx</string>
+    <string name="address_et">No-12/5B, 1st street, Sanchaung</string>
+
+</resources>
